@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am diesel specialist mechanik. In my current job, im not able to reach anything more. Thats why i decidet to to became QA specialist and to reach to go i`ll finished indiwidual traning with Waldemar Szafraniec form wyszkolewas
+I am diesel specialist mechanik. In my current job, I'm not able to reach anything more. Thats why i decidet to to became QA specialist and to get to go i`ll finished indiwidual traning with Waldemar Szafraniec form wyszkolewas
 ## TOOLS
 * Jira
 * TestLink
